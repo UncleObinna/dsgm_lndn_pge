@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width, initial-scale=1" />
+		<link rel="stylesheet" type="text/css" href="" />
+		<title>54gene Abuja.</title>
+		<style type="text/css">
+			
+		</style>
+		<script type="text/javascript">
+			
+		</script>
+	</head>
+
+	<body>
+		<h1>Welcome to <strong>54gene</strong> Abuja!</h1>
+		
+		<p> A few of the services we render at our mobile sample collection centre in Abuja:</p>
+		<ul>
+			<li>Covid-19 tests</li>
+			<li><abbr title="Rapid Diagnostic test">RDT</abbr></li>
+			<li>Hormonal Assay</li>
+			<li>Cancer screening</li>
+			<li>And many more</li>
+		</ul>
+		<br />
+		
+		<p>Steps for getting tested in Maitama Gardens, Abuja.
+			<ol>
+				<li>Make a reservation/payment online on our website: <a href="https://diagnosemeafrica.com" target="_blank"><abbr title="DiagnoseMe is an in-vitro diagnostics product designed to bring accurate testing closer to Africans.
+It leverages best-in-class equipment and technology to provide precise, reliable and prompt laboratory testing services. DiagnoseMe leads the charge in ensuring timely testing that provides for a better quality of healthcare within the African ecosystem.">DiagnosemeAfrica</abbr>.</a></li>
+				<li>Walk into the center with your receipt/order id.</li>
+				<li>Your payment/reservation will be confirmed by our customer support officer.</li>
+				<li>Your details will be taken by a data entry officer</li>
+				<li>Walk to the sample collection area for your sample collection.</li>
+			</ol>
+		</p>
+		<p> If you were unable to go through our online process, we have POS machines at the centre, you can walk in, pay with them and get tested immediately.</p>
+		<p>This entire process shouldn't take more than 10 mins.</p>
+		
+		<br >
+		
+		<p>Our turn around time is <span style="font-style:italic; font-weight:bold"> 
+        within 20 - 48 hours after the samples have been received by the lab</span>. </p>
+
+        <h5>If you have any questions or concerns, do not hesitate to contact us via:<address>
+        <a href="mailto:customersupport@54gene.com">Email</a> or phone 012296553.</address> One of our support agents will be on hand to answer your questions. </h5>
+        
+	</body>
+	<br >
+	<footer>
+		<cite>
+			<p>&lt;Obinna, 2021&gt;</p>
+		</cite>
+	</footer>
+</html>
